@@ -54,10 +54,10 @@ This project leverages Python and data visualization techniques to analyze Diwal
 ---
 
 ## 🔹 Future Improvements
-✅ Perform predictive analysis to forecast future sales 📈
-✅ Build interactive dashboards using Plotly / Streamlit / Power BI 🌐
-✅ Apply clustering techniques for customer segmentation 🤝
-✅ Extend dataset to include multiple years for trend analysis 📂
+- ✅ Perform predictive analysis to forecast future sales 📈
+- ✅ Build interactive dashboards using Plotly / Streamlit / Power BI 🌐
+- ✅ Apply clustering techniques for customer segmentation 🤝
+- ✅ Extend dataset to include multiple years for trend analysis 📂
 
 ---
 

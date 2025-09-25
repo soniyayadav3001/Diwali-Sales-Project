@@ -5,7 +5,7 @@ A comprehensive exploratory data analysis (EDA) project to understand customer b
 
 ## 🔹 Overview
 This project leverages Python and data visualization techniques to analyze Diwali sales data and uncover insights about customer demographics, product preferences, and purchase patterns.
-
+ 
 ---
 
 ## ✅ Key Features
